@@ -29,6 +29,7 @@ fun XOgame(modifier: Modifier = Modifier) {
         "X", "", "O"
     )
 
+
     Column(
         modifier = modifier.fillMaxSize().padding(16.dp),
         verticalArrangement = Arrangement.SpaceBetween,
